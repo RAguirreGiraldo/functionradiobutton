@@ -55,7 +55,7 @@ onEvent('click', btnConvert, function() {
 
 ### Example in Web Page  
 
-[Celsius To Farenheit](/celsiustofahrenheit/index.html)
+[Celsius To Farenheit](https://raguirregiraldo.github.io/celsiustoFahrenheit-/)
 
 ### References
 
